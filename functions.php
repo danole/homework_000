@@ -2,5 +2,5 @@
 
 function showSomething()
 {
-return 'SOMETHING';
+    return 'SOMETHING';
 }
